@@ -28,3 +28,6 @@ map the ground plane with an image e.g. a grass field.</li>
 
 # My First task
 <p>I began by first creating the game window  </p>
+
+# My Second task
+<p>Drawing the Robot </p>
